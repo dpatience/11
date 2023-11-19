@@ -5,7 +5,8 @@
 		<body>
 			<form>
 	
-				<tr><br>
+				<tr>
+    				<br>
 					<td>
 						Name:
 					</td>
