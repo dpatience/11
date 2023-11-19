@@ -4,7 +4,8 @@
   <h1> Sign up Form </h1>
 		<body>
 			<form>
-				<table><tr>
+	
+					<tr>
 				<td>
 						Name:
 					</td>
@@ -39,7 +40,7 @@
 						<input type="radio" name="gender" >Female
 					</td>
 				</tr>
-    </table>
+   
 			</form>
 		</body>
 	</head>
