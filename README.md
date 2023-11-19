@@ -5,12 +5,14 @@
 		<body>
 			<form>
 				<tr>
-					<td>
+				<td>
 						Name:
 					</td>
 					<td>
 						<input type="text" placeholder="Name">
-					</td>
+					</td>	
+				
+					
 				</tr>
 				<tr>
 					<td>
