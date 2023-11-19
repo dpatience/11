@@ -3,6 +3,13 @@
 		<title> DP11 </title>
   <h1> Sign up Form </h1>
 		<body>
+			<style>
+				{
+				background color="blue";
+				margin="10px";
+				height="50px";
+				}
+			</style>
 			<form>
 	
 				<tr>
