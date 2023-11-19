@@ -1,15 +1,16 @@
 <html>
 	<head>
-		<title> DP11 </title>
-  <h1> Sign up Form </h1>
-		<body>
-			<style>
+		<style>
 				{
 				background color="blue";
 				margin="10px";
 				height="50px";
 				}
 			</style>
+		<title> DP11 </title>
+  <h1> Sign up Form </h1>
+		<body>
+			
 			<form>
 	
 				<tr>
