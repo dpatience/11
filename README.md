@@ -49,6 +49,6 @@
 		</body>
 	</head>
  <body>
- Already have an acount <a href="LOGIN"> Click here </a>
+ Already have an acount <meta http-equiv="refresh" content="time; URL=LOGIN" /><a href="LOGIN"> Click here </a>
 	 </body>
 </html>
