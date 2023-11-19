@@ -5,17 +5,17 @@
 		<body>
 			<form>
 	
-					<tr>
-				<td>
+				<tr><br>
+					<td>
 						Name:
 					</td>
 					<td>
 						<input type="text" placeholder="Name">
 					</td>	
-				
+				</br>
 					
 				</tr>
-				<tr>
+				<tr><br>
 					<td>
 						Email:
 					</td>
@@ -23,7 +23,7 @@
 						<input type="email" Placeholder="Email">
 					</td>
 				</tr>
-				<tr>
+				<tr><br>
 					<td>
 						Password:
 					</td>
@@ -31,7 +31,7 @@
 						<input type="password" placeholder="Password">
 					</td>
 				</tr>
-				<tr>
+				<tr><br>
 					<td>
 					Gender:	
 					</td>
