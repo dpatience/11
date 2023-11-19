@@ -13,7 +13,7 @@
 					<td>
 						<input type="text" placeholder="Name">
 					</td>	
-				</br>
+				
 					
 				</tr>
 				<tr><br>
