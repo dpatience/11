@@ -40,8 +40,9 @@
 						<input type="radio" name="gender" >Female
 					</td>
 				</tr>
-   
+
 			</form>
+   <input type="submit" value="Submit" name="Submit">
 		</body>
 	</head>
 </html>
