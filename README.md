@@ -48,5 +48,7 @@
    
 		</body>
 	</head>
+ <body>
  Already have an acount <a href="LOGIN"> Click here </a>
+	 </body>
 </html>
